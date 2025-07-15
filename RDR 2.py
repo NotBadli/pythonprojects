@@ -15,7 +15,7 @@ win32api.ChangeDisplaySettings(devmode, 0)
 
 time.sleep(2)
 
-os.startfile('C:\\Users\\illia\\Downloads\\Red.Dead.Redemption.2.Fixed\\Red.Dead.Redemption.2.Fixed\\Red Dead Redemption 2\\RDR2.exe')
+os.startfile('C:\\Users\\notbadli\\Downloads\\Red.Dead.Redemption.2.Fixed\\Red.Dead.Redemption.2.Fixed\\Red Dead Redemption 2\\RDR2.exe')
 
 input('Press Enter >>> ')
 win32api.ChangeDisplaySettings(None, 0)
