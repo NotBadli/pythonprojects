@@ -9,22 +9,22 @@ def timer_function():
 
     time.sleep(900)
     print('Almost half way there')
-    playsound('C:/Users/illia/OneDrive/Documents/Python/Monitor_Timer/2.mp3')
+    playsound('C:/Users/notbadli/OneDrive/Documents/Python/Monitor_Timer/2.mp3')
 
     time.sleep(900)
     print('Half way there')  
-    playsound('C:/Users/illia/OneDrive/Documents/Python/Monitor_Timer/2.mp3')  
+    playsound('C:/Users/notbadli/OneDrive/Documents/Python/Monitor_Timer/2.mp3')  
 
     time.sleep(900)
     print('More than half way there')
-    playsound('C:/Users/illia/OneDrive/Documents/Python/Monitor_Timer/2.mp3')
+    playsound('C:/Users/notbadli/OneDrive/Documents/Python/Monitor_Timer/2.mp3')
 
     time.sleep(900)
     print('Do something else')
-    playsound('C:/Users/illia/OneDrive/Documents/Python/Monitor_Timer/1.mp3')
+    playsound('C:/Users/notbadli/OneDrive/Documents/Python/Monitor_Timer/1.mp3')
 
     time.sleep(600)
-    playsound('C:/Users/illia/OneDrive/Documents/Python/Monitor_Timer/1.mp3')
+    playsound('C:/Users/notbadli/OneDrive/Documents/Python/Monitor_Timer/1.mp3')
 
     print('Now you can use computer again')
     time.sleep(3)
