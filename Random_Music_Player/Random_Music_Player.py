@@ -25,7 +25,7 @@ else:
         if a == '3':
             print('well, this is last one')
             print('But before i end program...')
-            print('I want you to know, that this program is made by Illia Semochko')
+            print('I want you to know, that this program is made by NotBadli')
             time.sleep(5)
             playsound.playsound('3.mp3')
             webbrowser.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
