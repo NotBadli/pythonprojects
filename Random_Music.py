@@ -37,7 +37,7 @@ def Link():
                                             time.sleep(2)
                                             exit()
 
-print('Welcome to Random_Music player, By Illia Semochko')
+print('Welcome to Random_Music player, By NotBadli')
 time.sleep(3)
 input('Press Enter to Continue')
 
